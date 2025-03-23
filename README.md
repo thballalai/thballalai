@@ -1,6 +1,4 @@
 - 👋 Olá, meu nome é Thiago Ballalai
-- 👀 estou interessado em trabalhar como analista de teste!
-- 🌱 e estou aprendendo Java e as diversas técnicas de teste para alcançar este objetivo.
 
 <div>
   <a href = "https://github.com/thballalai">

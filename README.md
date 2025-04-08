@@ -41,7 +41,9 @@ Atualmente estou estudando e desenvolvendo projetos com foco em QA, automação 
   <!-- Badges -->
   <div style="display: inline_block" align="center"><br>
     <img alt="Ballalai-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">&nbsp;
-    <img alt="Ballalai-JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
+    <img alt="Ballalai-HTML" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
+    <img alt="Ballalai-CSS" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
+    <img alt="Ballalai-JavaScript" src="https://img.shields.io/badge/javascript-FFD700?style=for-the-badge&logo=javascript&logoColor=white">&nbsp;
     <img alt="Ballalai-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">&nbsp;
     <img alt="Ballalai-SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
     <img alt="Ballalai-Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">&nbsp;
@@ -53,6 +55,8 @@ Atualmente estou estudando e desenvolvendo projetos com foco em QA, automação 
     <img alt="Ballalai-CodeceptJS" src="https://img.shields.io/badge/CodeceptJS-EF4944?style=for-the-badge&logo=codeceptjs&logoColor=white">&nbsp;
     <img alt="Ballalai-Qase" src="https://img.shields.io/badge/Qase.io-0172CB?style=for-the-badge">&nbsp;
     <img alt="Ballalai-NodeJS" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">&nbsp;
+    <img alt="Ballalai-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;
+    <img alt="Ballalai-Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">&nbsp;
   </div>
 
   

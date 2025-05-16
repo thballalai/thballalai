@@ -32,7 +32,7 @@ Atualmente estou estudando e desenvolvendo projetos com foco em QA, automação 
 📚 **Áreas de Interesse**
 
 - Testes manuais e automatizados
-- Automação com Playwright, CodeceptJS e Selenium
+- Automação com Playwright, CodeceptJS, Cypress e Selenium
 - Gerenciamento de testes com Qase
 - CI/CD e boas práticas de versionamento
 - Qualidade como cultura
